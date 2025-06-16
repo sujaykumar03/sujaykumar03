@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gidda Sujay Kumar</h1>
 <p align="center">
-  Final-year Aeronautical Engineering student | Python Developer | Open Source Contributor
+  Final-year IT student | Python Developer | Open Source Contributor
 </p>
 
 <p align="center">
