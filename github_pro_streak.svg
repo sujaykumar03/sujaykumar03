@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="70">
+  <rect width="250" height="70" rx="12" fill="#0f172a"/>
+  <text x="125" y="26" font-size="14" font-family="Arial" fill="#94a3b8" text-anchor="middle">GitHub Pro Streak</text>
+  <text x="125" y="50" font-size="22" font-family="Arial" font-weight="bold" fill="#38bdf8" text-anchor="middle">🔥 5 Days</text>
+</svg>
