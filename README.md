@@ -3,9 +3,6 @@
   Final-year IT student | Python Developer | Open Source Contributor
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sujaykumar03/sujaykumar03/main/github_pro_streak.svg" alt="GitHub Pro Streak">
-</p>
 
 ---
 
